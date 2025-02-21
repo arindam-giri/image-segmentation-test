@@ -1,0 +1,4 @@
+https://discuss.ai.google.dev/t/cannot-load-h5-model/42465/2
+https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net?tab=readme-ov-file
+https://huggingface.co/spaces/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net/tree/9448c8e8f4ab85680a11b18d17e01e9c91d81e27
+https://huggingface.co/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net
